@@ -1,7 +1,10 @@
 <p align="center">
   <img alt="GIF" height="275" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
 </p>
+
+#### connect with me: 
 <br />
+
 <a href="https://www.instagram.com/foysalf6/">
   <img align="left" alt="foysal's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
@@ -19,7 +22,7 @@
 </a> 
 
 
-<br/>![](https://visitor-badge.glitch.me/badge?page_id=iamfoysal.iamfoysal)
+<br/><br/> ![](https://visitor-badge.glitch.me/badge?page_id=iamfoysal.iamfoysal)
 
 <br/>
 Hi, I'm<strong>  Mohammad Kawsar Alam.</strong> But I am better known by my nickname <strong> (Foysal)</strong> 
@@ -48,14 +51,7 @@ Hi, I'm<strong>  Mohammad Kawsar Alam.</strong> But I am better known by my nick
 
 [comment]: <> (<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>)
 </p>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
+<br/><br/><br/><br/><br/><br/><br/>
 <p align="center">
   <strong>If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈</strong>
   <br />
