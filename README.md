@@ -64,8 +64,6 @@ Hi, I'm<strong>  Mohammad Kawsar Alam.</strong> But I am better known by my nick
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamfoysal&show_icons=true&theme=gotham" alt="iamfoysal" /></p>
 
 <!-- <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamfoysal&theme=gotham" alt="iamfoysal"/></p> -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=iamfoysal" alt="iamfoysal" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" <img src="https://github-profile-trophy.vercel.app/?username=iamfoysal" alt="iamfoysal" /></a> </p>
  
 
