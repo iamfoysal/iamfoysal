@@ -30,7 +30,7 @@ Hi, I'm<strong>  Mohammad Kawsar Alam.</strong> But I am better known by my nick
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
   
-- 💼 Any Freelance Work? Do reach, [email](mailto:foysalf652@gmail.com) :)
+- 💼 Any Freelance Work? Do reach, [Send Mail](mailto:foysalf652@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) 
 - 💬 Ask me about anything, I'm happy to help;
 <p align="left">
 **Languages and Tools:** 
