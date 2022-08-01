@@ -36,7 +36,7 @@ Hi, I'm<strong>  Mohammad Kawsar Alam.</strong> But I am better known by my nick
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
   
-- 💼 Any Freelance Work? Do reach, [email](mailto:foysalf652@gmail.com) :)
+- 💼 Any Freelance Work? Do reach, [Send Mail](mailto:foysalf652@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) 
 - 💬 Ask me about anything, I'm happy to help;
 <p align="left">
 **Languages and Tools:** 
@@ -70,6 +70,10 @@ Hi, I'm<strong>  Mohammad Kawsar Alam.</strong> But I am better known by my nick
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamfoysal&show_icons=true&theme=gotham" alt="iamfoysal" /></p>
 
-[comment]: <> (<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamfoysal&theme=gotham" alt="iamfoysal"/></p>)
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamfoysal" alt="iamfoysal" /></a> </p>
+<!-- <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamfoysal&theme=gotham" alt="iamfoysal"/></p> -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=iamfoysal" alt="iamfoysal"/></a> </p>
+ 
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamfoysal)  
+ 
 
