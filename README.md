@@ -21,10 +21,11 @@
   <img align="left" alt="Foysal's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://codepen.io/iamfoysal">
-  <img align="left" alt="Foysal's  Codepen" width="22px" src="https://pic.onlinewebfonts.com/svg/img_529734.png" />
+  <img align="left" alt="Foysal's  Codepen" width="22px" src="https://pic.onlinewebfonts.com/svg/img_529734.png"/>
 </a>
+
 <a href="https://stackoverflow.com/users/17486887/happycoder">
-  <img align="left" alt="Foysal's Stack Overflow" width="100px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />
+  <img align="left" alt="Foysal's Stack Overflow" width="100px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg"/>
 </a> 
 
 
