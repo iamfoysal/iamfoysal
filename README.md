@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://stackoverflow.com/users/17486887/happycoder">
-  <img align="left" alt="Foysal's Stack Overflow" width="100px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg"/>
+  <img align="left" alt="Foysal's Stack Overflow" width="100px" src="https://bit.ly/3Qefj5C"/>
 </a> 
 
 
