@@ -28,7 +28,6 @@
   <img align="left" alt="Foysal's Stack Overflow" width="100px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg"/>
 </a> 
 
-
 <br/><br/> ![](https://visitor-badge.glitch.me/badge?page_id=iamfoysal.iamfoysal)
 
 <br/>
@@ -52,7 +51,6 @@ Hi, I'm<strong>  Mohammad Kawsar Alam.</strong> But I am better known by my nick
 <code><img height="20" src="https://devopstales.github.io/img/postgres.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/5429470?s=280&v=4"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
 
 
 [comment]: <> (<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>)
