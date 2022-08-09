@@ -31,8 +31,7 @@
 <br/><br/> ![](https://visitor-badge.glitch.me/badge?page_id=iamfoysal.iamfoysal)
 
 <br/>
-Hi, I'm<strong>  Mohammad Kawsar Alam.</strong> But I am better known by my nickname <strong> (Foysal)</strong> 
-,a Full-Stack Web Developer Front-End Design | Back-End Development | Team Player | Constantly Seeking Learning Opportunities And Ways To Improve Me.
+Hi, I'm<strong>codeditors.</strong></strong>,a Full-Stack Web Developer Front-End Design | Back-End Development | Team Player | Constantly Seeking Learning Opportunities And Ways To Improve Me.
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
   
