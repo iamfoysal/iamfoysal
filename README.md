@@ -1,20 +1,23 @@
 <p align="center">
-  <img alt="GIF" height="275" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
+  <img alt="GIF" height="250" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
 </p>
 
 #### connect with me: 
 <br />
 
-
 <a href="https://www.instagram.com/foysalf6/">
   <img align="left" alt="foysal's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"/>
 </a>
-<a href="https://www.facebook.com/foysalofficial.box/">
-  <img align="left" width="22px" src="https://bit.ly/3oLCfgT"/>
-</a>
 
 
-<a href="https://discord.com/channels/Foysal5152">
+[//]: # (<a  style="margin-left: 30px;" href="https://www.facebook.com/foysalofficial.box/">)
+
+[//]: # (  <img align="left" width="22px" src=" "/>)
+
+[//]: # (</a>)
+
+
+<a style="margin-left: 30px;" href="https://discord.com/channels/Foysal5152">
   <img align="left" alt="Foysal's Discord" width="22px" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png"/>
 </a> 
 
@@ -29,16 +32,14 @@
   <img align="left" alt="Foysal's  Codepen" width="22px" src="https://pic.onlinewebfonts.com/svg/img_529734.png"/>
 </a>
 
-<a href="https://stackoverflow.com/users/17486887/happycoder">
-  <img align="left" alt="Foysal's Stack Overflow" width="100px" src="https://bit.ly/3Qefj5C"/>
+<a style="margin-left: 30px;" href="https://stackoverflow.com/users/17486887/happycoder">
+  <img align="left" alt="Foysal's Stack Overflow" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"/>
 </a> 
 
-
-<br/><br/> ![](https://visitor-badge.glitch.me/badge?page_id=iamfoysal.iamfoysal)
+![](https://visitor-badge.glitch.me/badge?page_id=iamfoysal.iamfoysal)
 
 <br/>
-Hi, I'm<strong>  Mohammad Kawsar Alam.</strong> But I am better known by my nickname <strong> (Foysal)</strong> 
-,a Full-Stack Web Developer Front-End Design | Back-End Development | Team Player | Constantly Seeking Learning Opportunities And Ways To Improve Me.
+Hi, I'm<strong>  Mohammad Kawsar Alam Foysal</strong> a Full-Stack Web Developer Front-End Design | Back-End Development | Team Player | Constantly Seeking Learning Opportunities And Ways To Improve Me.
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
   
