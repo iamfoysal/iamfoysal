@@ -7,25 +7,30 @@
 
 
 <a href="https://www.instagram.com/foysalf6/">
-  <img align="left" alt="foysal's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
+  <img align="left" alt="foysal's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"/>
 </a>
 <a href="https://www.facebook.com/foysalofficial.box/">
-  <img align="left" alt="Foysal's Facebook" width="22px" src="https://raw.githubusercontent.com/obakriad/obakriad/master/assets/icons/facebook.svg" />
+  <img align="left" width="22px" src="https://bit.ly/3oLCfgT"/>
 </a>
- <a href="https://discord.com/channels/Foysal5152">
-  <img align="left" alt="Foysal's Discord" width="22px" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" />
+
+
+<a href="https://discord.com/channels/Foysal5152">
+  <img align="left" alt="Foysal's Discord" width="22px" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png"/>
 </a> 
+
  <a href="https://twitter.com/iamfoysal_">
   <img align="left" alt="Foysal's| Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" />
 </a>
+
 <a href="https://www.linkedin.com/in/iam-foysal/">
   <img align="left" alt="Foysal's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 <a href="https://codepen.io/iamfoysal">
-  <img align="left" alt="Foysal's  Codepen" width="22px" src="https://pic.onlinewebfonts.com/svg/img_529734.png" />
+  <img align="left" alt="Foysal's  Codepen" width="22px" src="https://pic.onlinewebfonts.com/svg/img_529734.png"/>
 </a>
+
 <a href="https://stackoverflow.com/users/17486887/happycoder">
-  <img align="left" alt="Foysal's Stack Overflow" width="100px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />
+  <img align="left" alt="Foysal's Stack Overflow" width="100px" src="https://bit.ly/3Qefj5C"/>
 </a> 
 
 
@@ -79,4 +84,5 @@ Hi, I'm<strong>  Mohammad Kawsar Alam.</strong> But I am better known by my nick
 [//]: # ( )
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamfoysal)  
  
+
 
