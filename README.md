@@ -5,6 +5,7 @@
 #### connect with me: 
 <br />
 
+
 <a href="https://www.instagram.com/foysalf6/">
   <img align="left" alt="foysal's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />
 </a>
@@ -53,7 +54,6 @@ Hi, I'm<strong>  Mohammad Kawsar Alam.</strong> But I am better known by my nick
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-
 [comment]: <> (<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>)
 
 [comment]: <> (<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>)
@@ -71,9 +71,12 @@ Hi, I'm<strong>  Mohammad Kawsar Alam.</strong> But I am better known by my nick
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamfoysal&show_icons=true&theme=gotham" alt="iamfoysal" /></p>
 
 <!-- <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamfoysal&theme=gotham" alt="iamfoysal"/></p> -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=iamfoysal" alt="iamfoysal"/></a> </p>
- 
+
+[//]: # (<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">)
+
+[//]: # ( <img align="center" src="https://github-profile-trophy.vercel.app/?username=iamfoysal" alt="iamfoysal"/></a> </p>)
+
+[//]: # ( )
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamfoysal)  
  
 
