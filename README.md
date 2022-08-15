@@ -40,6 +40,7 @@
 
 <br/>
 Hi, I'm<strong>  Mohammad Kawsar Alam Foysal</strong> a Full-Stack Web Developer Front-End Design | Back-End Development | Team Player | Constantly Seeking Learning Opportunities And Ways To Improve Me.
+<br/>
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
   
