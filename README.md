@@ -83,8 +83,7 @@ Hi, I'm<strong>  Mohammad Kawsar Alam Foysal</strong> a Full-Stack Web Developer
 
 [//]: # ( <img align="center" src="https://github-profile-trophy.vercel.app/?username=iamfoysal" alt="iamfoysal"/></a> </p>)
 
-[//]: # ( )
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iamfoysal)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamfoysal&theme=react-dark)](https://github.com/iamfoysal/github-readme-activity-graph)
  
 
 
