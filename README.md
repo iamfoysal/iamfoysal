@@ -80,10 +80,12 @@ Hi, I'm<strong>  Mohammad Kawsar Alam Foysal</strong> a Full-Stack Web Developer
   <a href="https://www.buymeacoffee.com/iamfoysal" target="_blank"><img alt="Buy Me A Coffee" width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
 </p>
 <br />
-<p align="center"><strong>📈 My github stats 📈 </strong></p>
+
+
+<!-- <p align="center"><strong>📈 My github stats 📈 </strong></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamfoysal&show_icons=true&theme=gotham" alt="iamfoysal" />
   
- 
+  -->
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamfoysal&show_icons=true&theme=gotham" alt="iamfoysal" /></p>
 
