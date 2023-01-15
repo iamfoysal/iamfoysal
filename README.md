@@ -1,16 +1,16 @@
-<p align="center">
+<!-- <p align="center">
   <img alt="GIF" height="250" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" />
-</p>
+</p> -->
 
-<!-- ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/iam-foysal/)
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/foysalofficial.box)
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:foysalf652@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) -->
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:foysalf652@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
-#### connect with me: 
-<br />
+<!-- #### connect with me: 
+<br /> -->
 
 <a href="https://www.instagram.com/foysalf6/">
   <img align="left" alt="foysal's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"/>
@@ -32,9 +32,9 @@
   <img align="left" alt="Foysal's| Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/iam-foysal/">
+<!-- <a href="https://www.linkedin.com/in/iam-foysal/">
   <img align="left" alt="Foysal's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
+</a> -->
 <a href="https://codepen.io/iamfoysal">
   <img align="left" alt="Foysal's  Codepen" width="22px" src="https://pic.onlinewebfonts.com/svg/img_529734.png"/>
 </a>
@@ -80,8 +80,10 @@ Hi, I'm<strong>  Mohammad Kawsar Alam Foysal</strong> a Full-Stack Web Developer
   <a href="https://www.buymeacoffee.com/iamfoysal" target="_blank"><img alt="Buy Me A Coffee" width="150" src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png"></a>
 </p>
 <br />
-<p align="center"><strong>📈 My github stats</strong></p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamfoysal&show_icons=true&theme=gotham" alt="imfoysal" />
+<p align="center"><strong>📈 My github stats 📈 </strong></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamfoysal&show_icons=true&theme=gotham" alt="iamfoysal" />
+  
+ 
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamfoysal&show_icons=true&theme=gotham" alt="iamfoysal" /></p>
 
