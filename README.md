@@ -37,7 +37,6 @@
   <img align="left" alt="Foysal's Stack Overflow" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png"/>
 </a> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=iamfoysal.iamfoysal)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=iamfoysal&countColor=%23263759)
 
 <br/>
