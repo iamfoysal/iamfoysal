@@ -94,4 +94,4 @@ Hi, I'm<strong>  Mohammad Kawsar Alam Foysal</strong> a Full-Stack Web Developer
 -->
 ## Total Stars
 
-<!--TOTAL_STARS-->
+Stars: 95
