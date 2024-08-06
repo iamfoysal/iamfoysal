@@ -21,15 +21,25 @@ jobs:
           total_stars=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" "https://api.github.com/users/iamfoysal/repos?per_page=100" | jq '[.[] | .stargazers_count] | add')
           echo "::set-output name=stars::$total_stars"
 
+      - name: Get achievements
+        id: get_achievements
+        run: |
+          achievements=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" "https://api.github.com/users/iamfoysal/achievements")
+          echo "::set-output name=achievements::$achievements"
+
       - name: Update README
         run: |
           stars=${{ steps.get_stars.outputs.stars }}
+          achievements=${{ steps.get_achievements.outputs.achievements }}
+          # Format achievements as needed, here is a simple example
+          achievements_formatted=$(echo "$achievements" | jq -r '.[] | "- \(.name): \(.description)"' | tr '\n' '\n')
           sed -i 's/<!--TOTAL_STARS-->/Stars: '"$stars"'/g' README.md
+          sed -i '/<!--ACHIEVEMENTS-->/r /dev/stdin' <<< "$achievements_formatted" README.md
 
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m 'Update total stars in README'
+          git commit -m 'Update README File'
           git push
