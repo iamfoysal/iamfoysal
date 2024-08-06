@@ -101,13 +101,3 @@ Stars: 95
 
 
 
-![](https://komarev.com/ghpvc/?username=iamfoysal&color=green)
-
-![Dominic's github stats](https://github-readme-stats.vercel.app/api?username=iamfoysal&theme=merko&layout=compact&count_private=true&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamfoysal&layout=compact&theme=merko&langs_count=10)](https://github.com/SimonOkello/github-readme-stats)
-
-
-<img src='https://github-profile-trophy.vercel.app/?username=iamfoysal&theme=tokyonight' >
-
