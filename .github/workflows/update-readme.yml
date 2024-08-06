@@ -18,7 +18,7 @@ jobs:
       - name: Calculate total stars
         id: get_stars
         run: |
-          total_stars=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" "https://api.github.com/users/YOUR_USERNAME/repos?per_page=100" | jq '[.[] | .stargazers_count] | add')
+          total_stars=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" "https://api.github.com/users/iamfoysal/repos?per_page=100" | jq '[.[] | .stargazers_count] | add')
           echo "::set-output name=stars::$total_stars"
 
       - name: Update README
