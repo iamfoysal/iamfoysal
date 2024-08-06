@@ -92,4 +92,6 @@ Hi, I'm<strong>  Mohammad Kawsar Alam Foysal</strong> a Full-Stack Web Developer
 <!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamfoysal&theme=react-dark)](https://github.com/iamfoysal/github-readme-activity-graph)
  
 -->
+## Total Stars
 
+<!--TOTAL_STARS-->
