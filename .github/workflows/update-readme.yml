@@ -20,20 +20,29 @@ jobs:
           total_stars=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" "https://api.github.com/users/iamfoysal/repos?per_page=100" | jq '[.[] | .stargazers_count] | add')
           echo "::set-output name=stars::$total_stars"
 
+      - name: Get achievements
+        id: get_achievements
+        run: |
+          achievements=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" "https://api.github.com/users/iamfoysal/achievements" | jq -r '.[] | "- ![\(.name)](\(.image_url)) **\(.name)**: \(.description)"' | tr '\n' ' ')
+          echo "::set-output name=achievements::$achievements"
+
       - name: Update README
         run: |
           stars=${{ steps.get_stars.outputs.stars }}
+          achievements=${{ steps.get_achievements.outputs.achievements }}
           
-          # Update the stars in the README
+          # Replace the stars and achievements placeholders
           sed -i 's/<!--TOTAL_STARS-->/Stars: '"$stars"'/g' README.md
+          sed -i 's|<!--ACHIEVEMENTS-->|'"$achievements"'|g' README.md
           
-          # Reset the placeholder for future updates
+          # Reset placeholders for the next run
           sed -i 's/Stars: '"$stars"'/<!--TOTAL_STARS-->/g' README.md
+          sed -i 's|'"$achievements"'|<!--ACHIEVEMENTS-->|g' README.md
 
       - name: Commit changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add README.md
-          git commit -m 'Update total stars in README'
+          git commit -m 'Update total stars and achievements in README'
           git push
