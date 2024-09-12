@@ -24,7 +24,7 @@ jobs:
         id: get_achievements
         run: |
           achievements=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" "https://api.github.com/users/iamfoysal/achievements" | jq -r '.[] | "- ![\(.name)](\(.image_url)) **\(.name)**: \(.description)"' | tr '\n' ' ')
-          
+
           # Handle empty achievements case
           if [ -z "$achievements" ]; then
             achievements="No achievements yet."
