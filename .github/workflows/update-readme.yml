@@ -24,17 +24,23 @@ jobs:
         id: get_achievements
         run: |
           achievements=$(curl -s -H "Authorization: token ${{ secrets.GH_TOKEN }}" "https://api.github.com/users/iamfoysal/achievements" | jq -r '.[] | "- ![\(.name)](\(.image_url)) **\(.name)**: \(.description)"' | tr '\n' ' ')
+          
+          # Handle empty achievements case
+          if [ -z "$achievements" ]; then
+            achievements="No achievements yet."
+          fi
+
           echo "::set-output name=achievements::$achievements"
 
       - name: Update README
         run: |
           stars=${{ steps.get_stars.outputs.stars }}
           achievements=${{ steps.get_achievements.outputs.achievements }}
-          
+
           # Replace the stars and achievements placeholders
           sed -i 's/<!--TOTAL_STARS-->/Stars: '"$stars"'/g' README.md
           sed -i 's|<!--ACHIEVEMENTS-->|'"$achievements"'|g' README.md
-          
+
           # Reset placeholders for the next run
           sed -i 's/Stars: '"$stars"'/<!--TOTAL_STARS-->/g' README.md
           sed -i 's|'"$achievements"'|<!--ACHIEVEMENTS-->|g' README.md
