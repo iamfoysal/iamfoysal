@@ -40,7 +40,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=iamfoysal&countColor=%23263759)
 
 <br/>
-Hi, I'm<strong>  Mohammad Kawsar Alam Foysal</strong> a Full-Stack Web Developer Front-End Design | Back-End Development | Team Player | Constantly Seeking Learning Opportunities And Ways To Improve Me.
+Hi, I’m a Full-Stack Web Developer with skills in front-end design, back-end development, and creating collaborative solutions. I’m a proactive team player with a passion for continuous learning and improvement, always exploring new technologies to enhance my development capabilities and deliver high-quality solutions.
 <br/>
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
@@ -67,7 +67,7 @@ Hi, I'm<strong>  Mohammad Kawsar Alam Foysal</strong> a Full-Stack Web Developer
 
 [comment]: <> (<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>)
 </p>
-<br/><br/><br/><br/><br/><br/><br/>
+<br/>
 <p align="center">
   <strong>If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈</strong>
   <br />
