@@ -40,7 +40,7 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=iamfoysal&countColor=%23263759)
 
 <br/>
-Hi, I’m a Full-Stack Web Developer with skills in front-end design, back-end development, and creating collaborative solutions. I’m a proactive team player with a passion for continuous learning and improvement, always exploring new technologies to enhance my development capabilities and deliver high-quality solutions.
+I’m a Full-Stack Web Developer with skills in front-end design, back-end development, and creating collaborative solutions. I’m a proactive team player with a passion for continuous learning and improvement, always exploring new technologies to enhance my development capabilities and deliver high-quality solutions.
 <br/>
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
