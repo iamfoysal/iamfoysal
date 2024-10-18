@@ -13,6 +13,7 @@
 </a>
 
 
+
 [//]: # (<a  style="margin-left: 30px;" href="https://www.facebook.com/foysalofficial.box/">)
 
 [//]: # (  <img align="left" width="22px" src=" "/>)
@@ -44,6 +45,8 @@ I’m a Full-Stack Web Developer with skills in front-end design, back-end devel
 <br/>
 
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
+
+[![GitHub Achievements](https://img.shields.io/badge/Achievements-View%20on%20GitHub-blue)](https://github.com/iamfoysal?tab=achievements)
   
 - 💼 Any Freelance Work? Do reach, [Send Mail](mailto:foysalf652@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) 
 - 💬 Ask me about anything, I'm happy to help;
@@ -93,13 +96,8 @@ I’m a Full-Stack Web Developer with skills in front-end design, back-end devel
  
 -->
 
-## Total Stars
-<!--TOTAL_STARS-->
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamfoysal&show_icons=true)
 
-
-
-
-
-
-
-
+</div>
