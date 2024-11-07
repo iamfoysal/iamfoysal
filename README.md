@@ -44,7 +44,23 @@
 I’m a Full-Stack Web Developer with skills in front-end design, back-end development, and creating collaborative solutions. I’m a proactive team player with a passion for continuous learning and improvement, always exploring new technologies to enhance my development capabilities and deliver high-quality solutions.
 <br/>
 
-<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" />
+<!---<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" /> --->
+
+```python
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
+
+@api_view(['POST'])
+def introduce_yourself(request):
+    name = request.data.get('name', 'kawsar Alam Foysal')
+    occupation = request.data.get('occupation', 'Software Developer')
+    interests = request.data.get('interests', ['Python', 'Django', 'Rest Framework'])
+
+    introduction = f"Hello, my name is {name}. I am a {occupation} and my interests include {', '.join(interests)}."
+
+    return Response({'introduction': introduction})
+```
+
 
 [![GitHub Achievements](https://img.shields.io/badge/Achievements-View%20on%20GitHub-blue)](https://github.com/iamfoysal?tab=achievements)
   
