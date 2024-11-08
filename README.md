@@ -13,7 +13,6 @@
 </a>
 
 
-
 [//]: # (<a  style="margin-left: 30px;" href="https://www.facebook.com/foysalofficial.box/">)
 
 [//]: # (  <img align="left" width="22px" src=" "/>)
@@ -100,7 +99,7 @@ def introduce_yourself(request):
   
   -->
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamfoysal&show_icons=true&theme=gotham" alt="iamfoysal" /></p>
+<!-- <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=iamfoysal&show_icons=true&theme=gotham" alt="iamfoysal" /></p> -->
 
 <!-- <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamfoysal&theme=gotham" alt="iamfoysal"/></p> -->
 
@@ -117,3 +116,18 @@ def introduce_yourself(request):
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamfoysal&show_icons=true)
 
 </div>
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=iamfoysal&show-other-skills=true" width="auto"></img>
+
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=iamfoysal&show-other-skills=true" width="auto"></img>
+
+
+## Thanks for visiting
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/iamfoysal/count.svg">
+
+Counting of visitors to this page in this section started from Nov 9, 2024
+
+<a href="https://info.flagcounter.com/MtUq"><img src="https://s01.flagcounter.com/count/MtUq/bg_F0EDFF/txt_000000/border_CCCCCC/columns_7/maxflags_30/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
