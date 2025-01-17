@@ -5,7 +5,9 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/iam-foysal/)
+<!--
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/foysalofficial.box)
+-->
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:foysalf652@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 <a href="https://www.instagram.com/foysalf6/">
@@ -20,10 +22,10 @@
 [//]: # (</a>)
 
 
-<a style="margin-left: 30px;" href="https://discord.com/channels/Foysal5152">
+<!--<a style="margin-left: 30px;" href="https://discord.com/channels/Foysal5152">
   <img align="left" alt="Foysal's Discord" width="22px" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png"/>
 </a> 
-
+-->
 <!-- <a href="[https://twitter.com/danielhendricks/](https://twitter.com/iamfoysal_)">
   <img src="https://cdn.jsdelivr.net/gh/dmhendricks/signature-social-icons/icons/round-flat-filled/50px/twitter.png" alt="Twitter" width="22"/>
 </a>
