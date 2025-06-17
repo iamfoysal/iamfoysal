@@ -42,7 +42,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=iamfoysal&countColor=%23263759)
 
 <br/>
-I’m a Full-Stack Web Developer with skills in front-end design, back-end development, and creating collaborative solutions. I’m a proactive team player with a passion for continuous learning and improvement, always exploring new technologies to enhance my development capabilities and deliver high-quality solutions.
+Software engineer focused on building clean, scalable, and reliable systems. Currently exploring advanced architecture, backend development, data management, and project planning. A fast learner and team player, always eager to solve problems and improve through new technologies and best practices
+<br/>
 <br/>
 
 <!---<img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" /> --->
