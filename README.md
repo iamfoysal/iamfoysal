@@ -11,9 +11,9 @@
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:foysalf652@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 
 <h1>I'm MD Kawsar Alam Foysal</h1>
-<a href="https://www.instagram.com/foysalf6/">
+<!-- <a href="https://www.instagram.com/foysalf6/">
   <img align="left" alt="foysal's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png"/>
-</a>
+</a> -->
 
 
 [//]: # (<a  style="margin-left: 30px;" href="https://www.facebook.com/foysalofficial.box/">)
