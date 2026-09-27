@@ -2,7 +2,7 @@
 
 # MD Kawsar Alam Foysal
 
-### Software Engineer · Backend Developer · Problem Solver
+### Software Engineer · Backend Developer · Automation Enthusiast
 
 <p>
   <a href="https://github.com/iamfoysal">
@@ -25,11 +25,12 @@
 
 ## About me
 
-I am a software engineer focused on building **clean, scalable, and reliable systems**. My work and learning interests include backend development, API design, data management, software architecture, and effective project planning.
+I am a software engineer focused on building **clean, scalable, and reliable systems**. I work across backend development, full-stack applications, data management, web scraping, and workflow automation.
 
 - 🔭 Building and improving practical software solutions
-- 🌱 Continuously learning advanced backend engineering and system design
-- 💬 Happy to discuss Python, Django, REST APIs, databases, and software development
+- 🌱 Exploring advanced architecture, backend engineering, and system design
+- 🤖 Creating scraping tools, automation bots, and workflow automation systems with Python
+- 💬 Happy to discuss Python, PHP, Laravel, Symfony, Django, APIs, databases, and automation
 - 💼 Available for selected freelance and collaboration opportunities
 - 📫 Reach me at [foysalf652@gmail.com](mailto:foysalf652@gmail.com?subject=Hello%20from%20GitHub)
 
@@ -38,20 +39,22 @@ I am a software engineer focused on building **clean, scalable, and reliable sys
 ### Languages and frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,django,fastapi,react,nodejs" alt="Python, JavaScript, Java, C, Django, FastAPI, React, and Node.js" />
+  <img src="https://skillicons.dev/icons?i=python,php,java,js,ts,c,laravel,symfony,django,fastapi,nodejs,vue,react,nextjs" alt="Python, PHP, Java, JavaScript, TypeScript, C, Laravel, Symfony, Django, FastAPI, Node.js, Vue.js, React, and Next.js" />
 </p>
 
-### Databases and tools
+### Databases, automation, and tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,git,github,docker,linux,postman" alt="PostgreSQL, MySQL, Redis, Git, GitHub, Docker, Linux, and Postman" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,selenium,git,github,docker,linux,postman" alt="PostgreSQL, MySQL, Redis, Selenium, Git, GitHub, Docker, Linux, and Postman" />
 </p>
 
 ## What I work on
 
-- **Backend engineering:** Python, Django, Django REST Framework, API development, and maintainable service design
-- **Data management:** Relational databases, PostgreSQL, MySQL, query design, and reliable data workflows
-- **Full-stack collaboration:** Connecting robust APIs with modern JavaScript and React applications
+- **Backend engineering:** Python, Django, Django REST Framework, PHP, Laravel, Symfony, FastAPI, Node.js, and maintainable API design
+- **Frontend development:** JavaScript, TypeScript, Vue.js, React, Next.js, and responsive application interfaces
+- **Web scraping:** Python-based web scraping, data extraction, browser automation, and structured data pipelines
+- **Automation:** Automation bots, workflow automation, scheduled jobs, integrations, and productivity tooling
+- **Data management:** PostgreSQL, MySQL, Redis, query design, and reliable data workflows
 - **Engineering practices:** Clean code, testing, documentation, version control, and continuous improvement
 
 ## Featured profile links
@@ -65,12 +68,12 @@ I am a software engineer focused on building **clean, scalable, and reliable sys
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamfoysal&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfoysal&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=iamfoysal&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfoysal&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" alt="Most used programming languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamfoysal&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=iamfoysal&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
 ## Let’s connect
