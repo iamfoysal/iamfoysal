@@ -209,6 +209,70 @@ I value:
 
 ---
 
+## 🧭 Architecture Thinking
+
+> **Good architecture is not about adding more boxes — it is about creating clear boundaries, explicit contracts, and systems that can evolve safely.**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 Accidental
+
+<sub>GROWN, NOT DESIGNED</sub>
+
+```text
+ Web UI ───┐
+ Auth ─────┼──► Shared DB ◄──┬─ Billing
+ Orders ───┤                 ├─ Reports
+ Email ────┘                 └─ Notify
+```
+
+- Everything talks to everything
+- One shared database, no ownership
+- A small change creates a large blast radius
+- Failures cascade across unrelated features
+
+</td>
+<td width="50%" valign="top">
+
+### 🟢 Intentional
+
+<sub>DESIGNED TO EVOLVE</sub>
+
+```text
+ Client
+   │
+ API Gateway
+   │
+ ┌──────────┬──────────┬──────────┐
+ Orders   Billing    Reports
+   │          │          │
+Orders DB  Billing DB  Reports DB
+       \       │       /
+          Event Bus
+```
+
+- Clear tiers and bounded contexts
+- Each service owns its data
+- Contracts over implementation details
+- Services can scale, deploy, and fail independently
+
+</td>
+</tr>
+</table>
+
+### My Architecture Priorities
+
+| Priority | How I approach it |
+| --- | --- |
+| **Boundaries** | Keep business capabilities isolated and responsibilities explicit. |
+| **Contracts** | Design stable APIs, events, and interfaces before coupling implementations. |
+| **Data ownership** | Give each domain a clear source of truth and protect it behind its service boundary. |
+| **Resilience** | Use queues, retries, timeouts, caching, and graceful degradation where they add value. |
+| **Observability** | Make important workflows measurable with structured logs, metrics, and actionable alerts. |
+| **Pragmatism** | Start simple, remove accidental coupling, and introduce complexity only when the system earns it. |
+
 ## 📊 GitHub Activity
 
 <div align="center">
