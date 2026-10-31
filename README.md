@@ -209,6 +209,70 @@ I value:
 
 ---
 
+## 🧭 Architecture Thinking
+
+> **Good architecture is not about adding more boxes — it is about creating clear boundaries, explicit contracts, and systems that can evolve safely.**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 Accidental
+
+<sub>GROWN, NOT DESIGNED</sub>
+
+```text
+ Web UI ───┐
+ Auth ─────┼──► Shared DB ◄──┬─ Billing
+ Orders ───┤                 ├─ Reports
+ Email ────┘                 └─ Notify
+```
+
+- Everything talks to everything
+- One shared database, no ownership
+- A small change creates a large blast radius
+- Failures cascade across unrelated features
+
+</td>
+<td width="50%" valign="top">
+
+### 🟢 Intentional
+
+<sub>DESIGNED TO EVOLVE</sub>
+
+```text
+ Client
+   │
+ API Gateway
+   │
+ ┌──────────┬──────────┬──────────┐
+ Orders   Billing    Reports
+   │          │          │
+Orders DB  Billing DB  Reports DB
+       \       │       /
+          Event Bus
+```
+
+- Clear tiers and bounded contexts
+- Each service owns its data
+- Contracts over implementation details
+- Services can scale, deploy, and fail independently
+
+</td>
+</tr>
+</table>
+
+### My Architecture Priorities
+
+| Priority | How I approach it |
+| --- | --- |
+| **Boundaries** | Keep business capabilities isolated and responsibilities explicit. |
+| **Contracts** | Design stable APIs, events, and interfaces before coupling implementations. |
+| **Data ownership** | Give each domain a clear source of truth and protect it behind its service boundary. |
+| **Resilience** | Use queues, retries, timeouts, caching, and graceful degradation where they add value. |
+| **Observability** | Make important workflows measurable with structured logs, metrics, and actionable alerts. |
+| **Pragmatism** | Start simple, remove accidental coupling, and introduce complexity only when the system earns it. |
+
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -249,6 +313,10 @@ I'm open to selected **software engineering opportunities, freelance projects, A
 
 <a href="mailto:foysalf652@gmail.com?subject=Hello%20from%20GitHub">
   <img src="https://img.shields.io/badge/Let's%20Talk-foysalf652%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" />
+</a>
+
+<a href="https://buymeacoffee.com/iamfoysal">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
 </a>
 
 <br /><br />
