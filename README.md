@@ -315,6 +315,10 @@ I'm open to selected **software engineering opportunities, freelance projects, A
   <img src="https://img.shields.io/badge/Let's%20Talk-foysalf652%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" />
 </a>
 
+<a href="https://buymeacoffee.com/iamfoysal">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy me a coffee" />
+</a>
+
 <br /><br />
 
 <sub>Building reliable software. Automating intelligently. Engineering for scale.</sub>
