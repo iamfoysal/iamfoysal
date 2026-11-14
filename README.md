@@ -61,6 +61,14 @@ DevOps & Deployment    █████████████████░░
 
 ---
 
+## 🌐 Community Project
+
+### [TermSSH](https://termssh.xyz/)
+
+A free SSH terminal service built for the community. Try it at [termssh.xyz](https://termssh.xyz/).
+
+---
+
 ## 🛠️ Engineering Stack
 
 ### Backend & Languages
