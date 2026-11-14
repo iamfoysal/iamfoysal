@@ -1,6 +1,6 @@
 <div align="center">
 
-# MD Kawsar Alam Foysal
+# Kawsar Alam Foysal
 
 ### Software Engineer · Backend Engineering · AI Integration · Automation
 
